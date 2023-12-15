@@ -4,10 +4,10 @@ This Project is a comprehensive study aimed at understanding the causes and cont
 
 # Analysis
 
-  Overall trends in maternal mortality globally and by region
-  Countries with the highest/lowest maternal mortality ratios
-  Correlations between maternal mortality and factors like nutrition, substance abuse, pre-pregnancy weight and healthcare policies.
-  Changes in maternal mortality over time for specific countries
+  * Overall trends in maternal mortality globally and by region
+  * Countries with the highest/lowest maternal mortality ratios
+  * Correlations between maternal mortality and factors like nutrition, substance abuse, pre-pregnancy weight, and healthcare policies.
+  * Changes in maternal mortality over time for specific countries
   
   Visualizations are generated to illustrate the key findings (https://public.tableau.com/app/profile/neha.rana1750/vizzes).
 
