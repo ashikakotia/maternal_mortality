@@ -1,4 +1,4 @@
-# maternal_mortality
+# Maternal Mortality
 
 This Project is a comprehensive study aimed at understanding the causes and contributing factors to maternal mortality. The primary objective of this project is to identify key areas where interventions can significantly reduce the rate of maternal deaths.
 
