@@ -13,7 +13,7 @@ This Project is a comprehensive study aimed at understanding the causes and cont
 
 # Models
 
- * Two machine learning models are trained to predict maternal deaths on factors like nutrition, substance abuse and health policy:
+Two machine learning models are trained to predict maternal deaths on factors like nutrition, substance abuse, and health policy:
 
  * Gradient Boosting Machine (GBM): A gradient boosting model using XGBoost is trained to predict the target variable. Hyperparameter tuning is performed using  
    randomized search.
